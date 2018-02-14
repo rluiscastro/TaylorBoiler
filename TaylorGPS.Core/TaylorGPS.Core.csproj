@@ -186,7 +186,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Person.cs" />
     <Compile Include="TaylorGPSConsts.cs" />
     <Compile Include="TaylorGPSCoreModule.cs" />
     <Compile Include="AppVersionHelper.cs" />
